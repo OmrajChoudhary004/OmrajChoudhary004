@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OmrajChoudhary004
+- 👀 I’m interested in Various type of coding languages
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on with only Me
+- 📫 How to reach me type github.com/OmrajChoudhary004
